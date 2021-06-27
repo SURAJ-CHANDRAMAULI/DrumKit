@@ -15,6 +15,10 @@ footer {
   font-family: sans-serif;
 }
 
+#name{
+  opacity: 0.5;
+}
+
 .w {
   background-image: url("images/crash.png");
 }
